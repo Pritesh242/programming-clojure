@@ -7,5 +7,5 @@
 /snippet-db.script
 /tmp.clj
 lib/*
-.lein-failures
+.lein-failuressadd
 classes/*
